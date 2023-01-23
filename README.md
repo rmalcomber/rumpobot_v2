@@ -1,5 +1,12 @@
 # RumpoBot
 
+## To Start so far
+
+*Have Deno Installed*
+
+`> deno run --allow-net main.ts` 
+
+## The Plan
 
 - Hosted Admin Planel
     - Support for adding commands at runtime
@@ -18,5 +25,5 @@
 
 
 ## Common Engine
-
+Write some stuff about the common engine
 
